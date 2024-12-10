@@ -13,7 +13,7 @@
   
   body {
     font-family: "Pangolin", cursive;
-    background: url('/images/background3.jpg') no-repeat center center fixed;
+    background: url('../images/background3.jpg') no-repeat center center fixed;
     background-size: cover;
     min-height: 100vh;
     flex-direction: column;
@@ -259,7 +259,7 @@ img:hover{
     margin:20px;
     width: 100px;
     height: 100px;
-    background: url('/images/Play Icon.png') no-repeat center;
+    background: url('../images/Play Icon.png') no-repeat center;
     background-size: cover;
     border: none;
     cursor: pointer;
@@ -269,7 +269,7 @@ img:hover{
     margin:20px;
     width: 100px;
     height: 100px;
-    background: url('/images/Pause Icon.png') no-repeat center;
+    background: url('../images/Pause Icon.png') no-repeat center;
     background-size: cover;
     border: none;
     cursor: pointer;
